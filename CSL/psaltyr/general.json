@@ -1,0 +1,59 @@
+{
+    "BEGIN": [
+        {"TYPE": "R", "TEXT": "Ášče íeréj, hlahólet:"},
+        {"TYPE": "B", "TEXT": "Bláhoslovén Boh náš, vsehdá, nýňi í prísno, í vo víki vikóv."},
+        {"TYPE": "R", "TEXT": "Ášče li ní, hlahóli úmilénno:"},
+        {"TYPE": "B", "TEXT": "Molitvami svjatých ótéc nášich, Hospodi Izráise Christé Bože náš, pomíluj nás, ámíň."},
+        {"TYPE": "B", "TEXT": "Carjú nebésnyj, úťíšiteľu, duše ístiny, íže vezďí sýj, í vsjá íspolňájaj, sokróvišče bláhích í žízni podáteľu, prijidí í vselísja v ný, í óčísti ný ot vsjákija skvérny, í Spasí bláže, dúšy náša."},
+        {"TYPE": "B", "TEXT": "Svjatýj Bože, svjatýj krípkij, svjatýj bezsmértnyj, pomíluj nás.", "REPEAT": 3},
+        {"TYPE": "B", "TEXT": "Sláva Ótcú, í Sýnu, í svjatómu Dúchu, í nýňi í prísno, í vo víki vikóv, ámíň."},
+        {"TYPE": "B", "TEXT": "Presvjatája Trójce, pomíluj nás: Hospodi, óčísti hrichí náša: Vladýko, prostí bezzakónija náša: svjatýj, posití í íscilí némošči náša, ímene tvojehó rádi."},
+        {"TYPE": "B", "TEXT": "Hospodi pomíluj.", "REPEAT": 3},
+        {"TYPE": "B", "TEXT": "Sláva, í nýňi:"},
+        {"TYPE": "B", "TEXT": "Ótče náš, íže jésí na nebesích, da svjatítsja ímja tvojé, da prijídet cárstvije tvojé, da búdet vóľa tvojá, jáko na nebesí í na zemlí. chľíb náš nasúščnyj dážď nám dnés, í óstávi nám dólhi náša, jákože í mý óstavľájem dolžnikóm nášym: í ne vvedí nás vo ískušénije, no ízbávi nás ot lukávaho."},
+        {"TYPE": "R", "TEXT": "Svjaščénnik:"},
+        {"TYPE": "B", "TEXT": "Jáko tvojé jésť cárstvo:"},
+        {"TYPE": "R", "TEXT": "Í troparí sijá"}
+    ],
+    "TROPARS": {
+        "T": {"HLAS": 6, "TEXT": "Pomíluj nás Hospodi, pomíluj nás: vsjákaho bo otvíta nedoumíjušče, sijú ti molitvu jáko Vladícii hríšniji prinósim: pomíluj nás."},
+        "T_S": {"TEXT": "Čestnóje proróka tvojehó Hospodi, toržestvó, nébo cerkov pokazá, s čelovíki likújut Anheli. tohó molitvami Christé Bože, v míri úprávi živót náš, da pojém tí: állilúija."},
+        "T_N": {"TEXT": "Mnóhaja mnóžestva mojích Bohoródice, prehrišénij, k tebí pribihóch čestaja, Spasénija trébuja: posití nemoščstvújuščuju mojú dúšu, í molí Sýna tvojehó í Boha nášeho, dáti mí óstavlénije, jáže soďíjach ľútych, jédína bláhoslovénnaja."}
+    },
+    "BEGIN_END": [
+        {"TYPE": "B", "TEXT": "Hospodi pomíluj.", "REPEAT": 40},
+        {"TYPE": "R", "TEXT": "Í poklonísja jélíko tí móščno."},
+        {"TYPE": "R", "TEXT": "Táže, molitva svjatíj živonačáľňij Trójci."},
+        {"TYPE": "B", "TEXT": "Vsesvjatája Trójce, Bože í soďíteľu vsehó míra, pospiší í naprávi sérdce mojé, načáti s rázumom, í končáti ďíly bláhími Bohoduchnovénnyja sijá kníhi, jáže svjatýj Dúch ústý Davidovy otrýhnu, íchže nýňi choščú hlahólati áz nedostójnyj: razumíja že svojé nevížestvo, pripádaja moľúsja tí, í jéže ot tebé pómošči prosjá: Hospodi, úprávi úm mój, í útverdí sérdce mojé, ne ó hlahólaniji ústén stužáti sí, no ó rázumi hlahólemych veselítisja, í prihotóvitisja na tvorénije dóbrych ďíl, jáže účúsja, í hlahóľu: da dóbrymi ďíly prosviščén, na sudíšči desnýja tí straný pričástnik búdu, so vsími ízbránnymi tvojími. í nýňi Vladýko, bláhosloví, da vozdochnúv ot sérdca, í jázýkom vospojú, hlahóľa síce:"},
+        {"TYPE": "B", "TEXT": "Prijidíte, poklonímsja cerévi nášemu Bohu."},
+        {"TYPE": "B", "TEXT": "Prijidíte, poklonímsja í pripadém Christú cerévi nášemu Bohu."},
+        {"TYPE": "B", "TEXT": "Prijidíte, poklonímsja í pripadém samomú Christú cerévi í Bohu nášemu."}
+    ],
+    "END": [
+        {"TYPE": "B", "TEXT": "Dostójno jésť: ílí, Ó tebí rádujetsja:"},
+        {"TYPE": "B", "TEXT": "Svjatýj Bože, svjatýj krípkij, svjatýj bezsmértnyj, pomíluj nás.", "REPEAT": 3},
+        {"TYPE": "B", "TEXT": "Sláva Ótcú, í Sýnu, í svjatómu Dúchu, í nýňi í prísno, í vo víki vikóv, ámíň."},
+        {"TYPE": "B", "TEXT": "Presvjatája Trójce, pomíluj nás: Hospodi, óčísti hrichí náša: Vladýko, prostí bezzakónija náša: svjatýj, posití í íscilí némošči náša, ímene tvojehó rádi."},
+        {"TYPE": "B", "TEXT": "Hospodi pomíluj.", "REPEAT": 3},
+        {"TYPE": "B", "TEXT": "Sláva, í nýňi:"},
+        {"TYPE": "B", "TEXT": "Ótče náš, íže jésí na nebesích, da svjatítsja ímja tvojé, da prijídet cárstvije tvojé, da búdet vóľa tvojá, jáko na nebesí í na zemlí. chľíb náš nasúščnyj dážď nám dnés, í óstávi nám dólhi náša, jákože í mý óstavľájem dolžnikóm nášym: í ne vvedí nás vo ískušénije, no ízbávi nás ot lukávaho."},
+        {"TYPE": "R", "TEXT": "Svjaščénnik:"},
+        {"TYPE": "B", "TEXT": "Jáko tvojé jésť cárstvo:"},
+        {"TYPE": "R", "TEXT": "Í troparí sijá"}
+    ],
+    "END_END": [
+        {"TYPE": "B", "TEXT": "Hospodi pomíluj.", "REPEAT": 40},
+        {"TYPE": "R", "TEXT": "Í poklonísja jélíko tí móščno, s molitvoju:"},
+        {"TYPE": "B", "TEXT": "Hospodi í Vladýko životá mojehó:"},
+        {"TYPE": "R", "TEXT": "Posém hlahóli molitvu sijú so vnimánijem:"},
+        {"TYPE": "B", "TEXT": "Mnohomílostive í premílostive Hospodi, í vsehó dobrá dáteľu čelovikoľúbče, í vsejá vselénnyja cerjú mnohoimenítyj, Vladýko í Hospodi, níšč í úbóh jésm áz, derzáju prizyváti čúdnoje í strášnoje í svjatóje ímja tvojé, jéhóže vsjá tvár nebésnych síl stráchom trepéščut: nízu na zemlí neizrečénnaho tvojehó čelovikoľúbija smotrénije údivíl jésí, poslánijem vozľúblennaho tvojehó ótroka. jéhóže ot beznačáľnych ňídr tvojejá Ótčeskija slávy, nerazlúčnym Božestvóm otrýhnul jésí, da čelovíki so Anhely vo jédín sostáv ústróit. Pomjaní, Hospodi, mojehó únýnija smirénije: kál sýj í pérsť, tebé neizhlahólannaho svíta prizyváju, némoščiju plóti óbložén, júže mílostivňi Slóvo tvojé ponesé, í smértiju svojéju ot rabóty vrážija svobodíl jésť dúšy náša, da óbščniki vsjá, íže víroju járém rabóty tvojejá na sjá vzémšyja, slávy tvojejá spodóbit ích, ot nejáže sataná ľstívyj otpadé. Pomíluj mjá ómračénnaho hrichóvnymi pómysly, vozvedí úm mój údávlennyj térnijem ľínosti, í ľadínoju nepokórstva: útverdí sérdce mojé po tebí horíti, óčíma mojíma ístóčnik sléz poslí, í na konéc íschóda duší mojejá, sotvorí mja bezporóčna tvojehó úhódnika, nastavľája mjá k tebí podvizátisja úsérdno. Pomjaní Hospodi, rodíteli mojá mílosrdijem tvojím, í vsjá blížnija mojá, í brátiju, í drúhi, í sosídy, í vsjá pravoslávnyja Christijány, í Spasí mja molitvami vsích svjatých: í prijimí v čésť sijá psalmý í molitvy, jáže hlahólach pred tobóju za sjá, í ne mérzko tí búdi s vozdychánijem molénije sijé, jáko mílostiv sýj í čelovikoľúbec, í tebé beznačáľnaho Ótcá slávim, so jédinoródnym tvojím Sýnom, í so svjatým Dúchom, nýňi í prísno, í vo víki vikóv, ámíň."},
+        {"TYPE": "R", "TEXT": "Posém"},
+        {"TYPE": "B", "TEXT": "Čestňíjšuju cheruvím:"},
+        {"TYPE": "B", "TEXT": "Sláva: í nýňi:"},
+        {"TYPE": "B", "TEXT": "Hospodi pomíluj.", "REPEAT": 3},
+        {"TYPE": "B", "TEXT": "Bláhosloví."},
+        {"TYPE": "R", "TEXT": "Ášče íeréj, končájet svjaščénničeski. Ášče li prostýj, končájet síce:"},
+        {"TYPE": "B", "TEXT": "Hospodi Izráise Christé Sýne Božij, molitv rádi prečestyja tvojejá Matre, síloju čestnáho í životvorjáščaho krestá, í svjatých nebésnych síl bezplótnych, í prepodóbnych í Bohonósnych ótéc nášich, í svjatáho proróka Davida, í vsích svjatých, pomíluj í Spasí mja hríšnaho, jáko bláh í čelovikoľúbec."}
+
+    ]
+}
